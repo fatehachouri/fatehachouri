@@ -5,7 +5,7 @@
 
 <li align="center">🌍 I'm based in Paris, France</li>
 <li align="center">🤝 I'm open to collaborating on interesting projects as a developer</li>
-<li align="center"> 🧠  Currently learning React Native</li>
+<li align="center"> 🧠  Currently learning Next.js</li>
 <li align="center"> :e-mail: Contact me <a href="https://fatehachouri.github.io/profile/"> Here</a></li>
 </div>
 
