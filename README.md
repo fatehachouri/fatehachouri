@@ -8,6 +8,7 @@
 <li align="center"> 🧠  Currently learning React Native</li>
 <li align="center"> :e-mail: Contact me <a href="https://fatehachouri.github.io/profile/"> Here</a></li>
 </div>
+
 <h2 align="center"> Languages and Tools:</h2>
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> &nbsp;
@@ -20,6 +21,7 @@
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://www.mementotech.in/assets/images/icons/express.png" width="36" height="36" alt="express js" /></a> &nbsp;
 <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/429/921/png-transparent-mongodb-plain-wordmark-logo-icon.png" width="36" height="36" alt="MongoDb" /></a> &nbsp;
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="36" height="36" alt="vscode" /></a> &nbsp;
+ 
  <h2 align="center"> Connect with me:</h2>
 <p align="center"> <a href="https://www.linkedin.com/in/fateh-achouri/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  &nbsp;
 <a href="https://www.behance.net/fatehachouri" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/behance-1.svg" width="32" height="32" /></a> &nbsp;
