@@ -22,8 +22,8 @@
  <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://mui.com/static/logo.png" width="36" height="36" alt="MUI" /></a> &nbsp; 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://d1fmx1rbmqrxrr.cloudfront.net/zdnet/i/edit/ne/2021/07/NodeJS.jpg" width="36" height="36" alt="node js" /></a> &nbsp;
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://www.mementotech.in/assets/images/icons/express.png" width="36" height="36" alt="express js" /></a> &nbsp;
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/429/921/png-transparent-mongodb-plain-wordmark-logo-icon.png" width="36" height="36" alt="MongoDb" /></a> &nbsp;
+<a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/429/921/png-transparent-mongodb-plain-wordmark-logo-icon.png" width="36" height="36" alt="MongoDb" /></a> &nbsp;
 
 ### Socials
 
-<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/fateh-achouri/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
