@@ -7,7 +7,7 @@
 <li align="center">🤝 I'm open to collaborating on interesting projects as a developer</li>
 <li align="center"> 🧠  Currently learning Next.js</li>
 <li align="center"> :e-mail: Contact me <a href="https://fatehachouri.github.io/profile/" target="_blank"> Here</a></li>
- <li align="center"> 🖥️ See my <a href="https://achouri.netlify.app/" target="_blank">Portfolio</a> </li>
+ <li align="center"> 🖥️ See my <a href="https://achouri.netlify.app/" target="_blank" rel="noopener noreferrer">Portfolio</a> </li>
 </div>
 
 <h2 align="center"> Languages and Tools:</h2>
